@@ -1,0 +1,38 @@
+{
+  "name": "ytas",
+  "version": "1.0.0",
+  "description": "YouTube archive switchblade.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/normanlol/lost-fetcher.git"
+  },
+  "keywords": [
+    "archive",
+    "archive-tool",
+    "youtube"
+  ],
+  "author": "normanlol",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/normanlol/lost-fetcher/issues"
+  },
+  "homepage": "https://github.com/normanlol/lost-fetcher#readme",
+  "dependencies": {
+    "@antiadmin/anticaptchaofficial": "^1.0.14",
+    "cheerio": "*",
+    "compare-strings": "^1.1.0",
+    "express": "^4.17.1",
+    "formidable": "^1.2.2",
+    "got": "^11.8.2",
+    "redddit": "^1.1.0",
+    "ytdl-core": "^4.8.2"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {}
+}
