@@ -1,4 +1,4 @@
-# ytas: youtube archive switchblad
+# ytas: youtube archive switchblade
 A variety of web tools you can use to ease archiving YouTube content.
 
 ## tools included
